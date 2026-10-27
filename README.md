@@ -1,83 +1,102 @@
 <p align="center">
-  <img src="assets/ancient_atlas_header.svg" alt="Prince Upadhyay — dark engraved celestial atlas, independent researcher" width="100%" />
+  <img src="assets/atlas_header_v2.svg" alt="Prince Upadhyay — antique scientific atlas with a clean celestial compass, dark ink and warm ivory lettering" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/reggaesharkk/Reggae-shark-universe-"><b>RESEARCH ARCHIVE</b></a>
+  <a href="https://github.com/reggaesharkk/Reggae-shark-universe-">THE ARCHIVE</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/reggaesharkk?tab=repositories"><b>REPOSITORIES</b></a>
+  <a href="https://github.com/reggaesharkk?tab=repositories">ALL REPOSITORIES</a>
   &nbsp; · &nbsp;
-  <a href="https://orcid.org/0009-0002-1170-4487"><b>ORCID</b></a>
+  <a href="https://orcid.org/0009-0002-1170-4487">ORCID</a>
   &nbsp; · &nbsp;
-  <a href="mailto:starxshark@gmail.com"><b>CONTACT</b></a>
+  <a href="mailto:starxshark@gmail.com">WORK WITH ME</a>
 </p>
 
----
+### An independent observatory of mathematics and computation
 
-### I. The Researcher
+I'm **Prince Upadhyay**, an independent researcher based in India. My work crosses **spectral theory, mathematical dynamics, machine-checked reasoning, AI evaluation and evidence verification**.
 
-I'm **Prince Upadhyay**, an independent researcher based in India.
+I build small exact results, ambitious models, experimental systems and adversarial tests. I also preserve counterexamples, broken assumptions and unanswered questions. The distinction matters: **a certificate for a finite model is not proof of a universal conjecture; a valid signature is not proof that an execution claim is true.**
 
-I work at the intersection of **mathematics, dynamical systems, formal methods, AI evaluation, and verifiable computational evidence**. I build exact certificates, explore models, construct counterexamples, and test whether ambitious claims survive contact with real computation.
+> *The universe does not owe us certainty. Our claims owe the universe evidence.*
 
-**My method:** build it, attack it, falsify what fails, and preserve the record. A proof about a finite model is not a proof about the universe. A passing test is not a production-security certification.
+<p align="center">
+  <img src="assets/section_research.svg" alt="Chapter I — The Research Atlas: documented results and public evidence" width="100%" />
+</p>
 
-**Fields:** spectral mathematics · dynamical systems · Lean 4 · reproducible computation · AI evidence & adversarial evaluation
+### Six featured programmes
 
----
+Each plate opens its public source repository. The labels describe the **scope of the evidence**, not claims of universal discovery.
 
-### II. The Research Atlas
-
-| Signal | Research programme | Verified or documented scope |
-|:--|:--|:--|
-| `01 // ∑` | **[LRSC · Odd-Ring Spectral Rank](https://github.com/reggaesharkk/lrsc-odd-ring-spectral-rank)** | Analytic rank theorem; exact finite **M = 99, K = 11** certificate. |
-| `02 // ◈` | **[The Reggae Shark Protocol](https://github.com/reggaesharkk/The-Reggae-Shark-Protocol)** | Signed evidence, formal lifecycle model, verifiable AI-execution research; production trust remains under development. |
-| `03 // ζ` | **[Riemann Bandwidth-One Verification](https://github.com/reggaesharkk/riemann-bandwidth1-verification)** | Discrete Loewner trace theorem, exact finite certificates and documented open zeta-side obligations. |
-| `04 // Ψ` | **[Theory of Bounded Existence](https://github.com/reggaesharkk/theory-of-bounded-existence)** | Four-dimensional dynamical model, Lean-checked boundary results and model analysis. |
-| `05 // ≋` | **[Navier–Stokes Bridge Audit](https://github.com/reggaesharkk/navier-stokes-bridge-audit)** | Validated finite Galerkin computations; continuum bridge explicitly open. |
-| `06 // ⌁` | **[IntentSeal](https://github.com/reggaesharkk/intentseal)** | Claim-boundary checks, research provenance and reproducible verification prototypes. |
+| | |
+|:---:|:---:|
+| [![LRSC: spectral rank and finite 11-channel certificate](assets/cards/lrsc.svg)](https://github.com/reggaesharkk/lrsc-odd-ring-spectral-rank) | [![Shark Protocol: signed execution evidence, development](assets/cards/shark.svg)](https://github.com/reggaesharkk/The-Reggae-Shark-Protocol) |
+| [![Riemann bandwidth-one: finite certificates and open zeta bridge](assets/cards/riemann.svg)](https://github.com/reggaesharkk/riemann-bandwidth1-verification) | [![Theory of Bounded Existence: 4D dynamics and formal boundaries](assets/cards/existence.svg)](https://github.com/reggaesharkk/theory-of-bounded-existence) |
+| [![Navier–Stokes bridge: finite computation and open continuum passage](assets/cards/navier.svg)](https://github.com/reggaesharkk/navier-stokes-bridge-audit) | [![IntentSeal: verifiable claim boundaries](assets/cards/intent.svg)](https://github.com/reggaesharkk/intentseal) |
 
 <details>
-<summary><b>Explore other research programmes</b></summary>
+<summary><b>Open the rest of the archive · Physics, experiments, AI memory &amp; documentation</b></summary>
 
-<br>
+The featured selection is not the whole programme:
 
-- **[Information-Theoretic Physics](https://github.com/reggaesharkk/physics-v1-dynamical-sector)** — specified ODEs, symbolic Hopf calculation and bounded-dynamics models.
-- **[STRENGTH](https://github.com/reggaesharkk/strength-interventional-retention-profile)** — ongoing experimental research into information retention and causal interventions; confirmatory claims remain open.
-- **[Self-Referential Processing / Design Lab](https://github.com/reggaesharkk/self-referential-processing-designlab)** — controlled experimental design and simulation validation.
-- **[Ψ Self-Modeling Benchmark](https://github.com/reggaesharkk/psi-self-modeling-benchmark)** — diagnostic and pre-confirmatory AI self-modeling experiments.
-- **[Complete Research Universe](https://github.com/reggaesharkk/Reggae-shark-universe-)** — source-linked catalogue, releases, references, rights and evidence boundaries.
+- [**Information-Theoretic Physics**](https://github.com/reggaesharkk/physics-v1-dynamical-sector) — dynamical sectors, model-specific Hopf analysis and boundedness certificates.
+- [**Self-Referential Processing / Design Lab**](https://github.com/reggaesharkk/self-referential-processing-designlab) — controlled experimental design, simulation checks and prospective protocols.
+- [**Ψ Self-Modeling Benchmark**](https://github.com/reggaesharkk/psi-self-modeling-benchmark) — diagnostic self/peer experiments with explicitly limited conclusions.
+- **STRENGTH** — ongoing private experiments on information retention, causal markers and delayed tasks; no confirmed general memory advantage claimed.
+- [**Reggae Shark Universe**](https://github.com/reggaesharkk/Reggae-shark-universe-) — programme-by-programme dossier, dated archives, source references, DOIs and evidence boundaries.
 
 </details>
 
----
+<p align="center">
+  <img src="assets/section_methods.svg" alt="Chapter II — The Method: proof, computation and claims" width="100%" />
+</p>
 
-### III. Method & Evidence
+### What the evidence labels mean
 
-```text
-  ◉ OBSERVE  ──  FORMALIZE  ──  VERIFY  ──  ATTACK  ──  PRESERVE
+| Label | Meaning in this archive |
+|---|---|
+| **PROVED** | A mathematical statement, within its stated assumptions and formal domain. |
+| **CERTIFIED** | A finite result supported by a reproducible certificate or verified computation. |
+| **SIMULATED** | Evidence about the simulated or experimental setup, not an external physical or security guarantee. |
+| **FALSIFIED** | An attempted claim or route contradicted by a counterexample, retained in the record. |
+| **OPEN** | An unresolved theorem, comparison, empirical question or deployment requirement. |
 
-  PROVED       / theorem in its stated mathematical domain
-  CERTIFIED    / finite, auditable computational result
-  SIMULATED    / evidence within a particular experimental model
-  FALSIFIED    / counterexample preserved, not hidden
-  OPEN         / unresolved proof or engineering requirement
+<details>
+<summary><b>Researcher's notebook · Selected established boundaries</b></summary>
 
-  > NO SHORTCUTS FROM A MODEL TO THE WORLD.
-  > NO SHORTCUTS FROM A HASH TO THE TRUTH.
-```
+- **LRSC:** the documented odd-ring benchmark specifies \(M=99\) and an exact eleven-channel finite threshold certificate. It is **not** a universal compression optimum or a new cryptographic guarantee.
+- **Riemann:** finite certificates and model-consumer percentages are not unconditional bounds for the distribution of zeta zeros; the strict \(>79\%\) route remains open.
+- **Shark Protocol:** software tests and Lean theorems are verified only in their respective scopes. Production security still requires independently operated attestations, protected keys and fresh external checkpoints.
+- **Navier–Stokes:** finite validated computations do not close the finite-to-continuum regularity problem.
+- **STRENGTH:** a failed or inconclusive retention experiment is evidence worth archiving, not a result to quietly promote.
 
-### IV. Open for Collaboration
+</details>
 
-**Available for remote technical assignments and research collaboration** involving:
+### What I am building toward
 
-- AI coding-agent evaluation and rigorous failure analysis.
-- Mathematical reasoning, scoped proof review and exact finite certificates.
-- Reproducibility audits, test replay, evidence authentication and cross-platform verification.
-- Benchmark design, adversarial regression tests and structured **PASS / FAIL / OPEN** reports.
-
-**Inquiries:** [Contact about paid technical work](mailto:starxshark@gmail.com) · [Browse the full research archive](https://github.com/reggaesharkk/Reggae-shark-universe-)
+| The mathematical desk | The verification bench | The experimental lab |
+|---|---|---|
+| Exact finite certificates, operator estimates, and small theorems that can be checked. | Tamper-evident computational provenance, adversarial AI-evidence tests, and honest PASS / FAIL / OPEN verdicts. | Controlled studies of model memory, dynamics, and self-referential processing, with negative controls. |
 
 <p align="center">
-  <sub>Prince Upadhyay · Independent Research · India · <a href="https://orcid.org/0009-0002-1170-4487">ORCID 0009-0002-1170-4487</a></sub>
+  <img src="assets/section_collab.svg" alt="Chapter III — Open Correspondence: paid technical research and collaboration" width="100%" />
+</p>
+
+### Open for paid technical assignments & research collaborations
+
+I am available for **remote project-based work** in:
+
+- **AI coding-agent evaluation** — testing generated programs, probing failure cases, analysing unsupported claims.
+- **Mathematical and computational review** — scoped proof checks, finite certificates, numerical-reproducibility investigations.
+- **Evidence and research audits** — source integrity, result replay, adversarial regression, and precise PASS / FAIL / OPEN reporting.
+- **Benchmark development** — reproducible test cases, measurable acceptance criteria and technical documentation.
+
+**Contact:** [starxshark@gmail.com](mailto:starxshark@gmail.com) · [Full research catalogue](https://github.com/reggaesharkk/Reggae-shark-universe-) · [ORCID record](https://orcid.org/0009-0002-1170-4487)
+
+---
+
+<p align="center">
+  <sub><b>PRINCE UPADHYAY</b> · Independent Researcher · India</sub>
+  <br />
+  <sub><i>Proof before prophecy. Evidence before certainty.</i></sub>
 </p>

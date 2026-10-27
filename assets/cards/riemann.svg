@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="199" viewBox="0 0 560 199" role="img" aria-label="RIEMANN, BANDWIDTH-ONE: Exact finite certificates, open zeta-side bridge; FINITE / MODEL / OPEN"><defs><linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1117"/><stop offset=".52" stop-color="#121C22"/><stop offset="1" stop-color="#12171B"/></linearGradient></defs><rect width="560" height="199" fill="url(#night)"/><rect x="10" y="10" width="540" height="179" fill="none" stroke="#62736B" stroke-width="1"/>
+<path d="M22 25H538M22 171H538" stroke="#85795E" stroke-opacity=".72" stroke-width=".8"/>
+<text x="27" y="51" font-family="Georgia,serif" fill="#CAB183" font-size="21" letter-spacing="2">FOLIO 03</text>
+<text x="27" y="89" font-family="Georgia,serif" fill="#F3E9D6" font-size="31" font-weight="bold">RIEMANN</text>
+<text x="28" y="113" font-family="'Courier New',monospace" fill="#CCD5CA" font-size="17" letter-spacing="1.1">BANDWIDTH-ONE</text>
+<text x="29" y="143" font-family="Georgia,serif" fill="#C1C9BD" font-size="15">Exact finite certificates,</text>
+<text x="29" y="160" font-family="Georgia,serif" fill="#C1C9BD" font-size="15">open zeta-side bridge</text>
+<path d="M399 33V164" stroke="#6E8278" opacity=".45"/><path d="M415 130C431 25 446 160 462 94S500 33 518 113" fill="none" stroke="#CAB183" stroke-width="2.2"/><path d="M412 91H522" stroke="#CAB183" stroke-opacity=".5"/></svg>

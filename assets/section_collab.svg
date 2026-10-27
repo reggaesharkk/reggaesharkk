@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="OPEN CORRESPONDENCE: Independent research · technical collaboration"><defs><linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1117"/><stop offset=".52" stop-color="#121C22"/><stop offset="1" stop-color="#12171B"/></linearGradient></defs><rect width="1200" height="112" fill="url(#night)"/><rect x="12" y="12" width="1176" height="89" fill="none" stroke="#546D63" stroke-width="1.1"/>
+<path d="M22 22H1178M22 91H1178" stroke="#B49B73" stroke-width="1" opacity=".65"/>
+<rect x="28" y="28" width="56" height="56" fill="#1A292C" stroke="#D2B181" stroke-width="1.5"/>
+<text x="56" y="67" fill="#D2B181" font-family="Georgia,serif" font-size="28" text-anchor="middle">III</text>
+<text x="106" y="57" font-family="Georgia,serif" font-size="29" fill="#F2E9D6" letter-spacing="2">OPEN CORRESPONDENCE</text>
+<text x="107" y="83" font-family="Georgia,serif" font-size="17" fill="#B7C5BE" letter-spacing="1.1">Independent research · technical collaboration</text>
+<path d="M1024 55H1154" stroke="#D2B181" stroke-width="1.1" opacity=".73"/><path d="M1142 43L1154 55L1142 67" stroke="#D2B181" stroke-width="1.1" fill="none"/></svg>
