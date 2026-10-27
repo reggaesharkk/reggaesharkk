@@ -1,35 +1,32 @@
 <p align="center">
-  <img src="assets/retro_cosmic_banner.svg" alt="Prince Upadhyay — luminous retro-futurist research universe" width="100%" />
+  <img src="assets/ancient_atlas_header.svg" alt="Prince Upadhyay — dark engraved celestial atlas, independent researcher" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/reggaesharkk/Reggae-shark-universe-"><img alt="Research Universe" src="https://img.shields.io/badge/RESEARCH-UNIVERSE-00DBF4?style=for-the-badge&labelColor=080B18" /></a>
-  <a href="https://orcid.org/0009-0002-1170-4487"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0002--1170--4487-BA76FF?style=for-the-badge&labelColor=080B18" /></a>
-  <a href="https://github.com/reggaesharkk/The-Reggae-Shark-Protocol"><img alt="Shark Protocol" src="https://img.shields.io/badge/SHARK-PROTOCOL-FFB64E?style=for-the-badge&labelColor=080B18" /></a>
+  <a href="https://github.com/reggaesharkk/Reggae-shark-universe-"><b>RESEARCH ARCHIVE</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/reggaesharkk?tab=repositories"><b>REPOSITORIES</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://orcid.org/0009-0002-1170-4487"><b>ORCID</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:starxshark@gmail.com"><b>CONTACT</b></a>
 </p>
 
-<p align="center">
-  <img src="assets/terminal_ethos.svg" alt="The universe does not owe us certainty. Our claims owe the universe evidence." width="100%" />
-</p>
+---
 
-### `TRANSMISSION 001 // WHO I AM`
+### I. The Researcher
 
 I'm **Prince Upadhyay**, an independent researcher based in India.
 
 I work at the intersection of **mathematics, dynamical systems, formal methods, AI evaluation, and verifiable computational evidence**. I build exact certificates, explore models, construct counterexamples, and test whether ambitious claims survive contact with real computation.
 
-My research rule: **build it, attack it, falsify what fails, preserve the record.** A proof about a finite model is not a proof about the universe. A passing test is not a production-security certification.
+**My method:** build it, attack it, falsify what fails, and preserve the record. A proof about a finite model is not a proof about the universe. A passing test is not a production-security certification.
 
-<p align="center">
-<img alt="Math" src="https://img.shields.io/badge/MATHEMATICS-EXACT%20CERTIFICATES-00DBF4?style=flat-square&labelColor=101329" />
-<img alt="Formal" src="https://img.shields.io/badge/LEAN%204-FORMAL%20CHECKS-AE79F9?style=flat-square&labelColor=101329" />
-<img alt="Research" src="https://img.shields.io/badge/RESEARCH-REPRODUCIBLE-FFBF66?style=flat-square&labelColor=101329" />
-<img alt="Adversarial" src="https://img.shields.io/badge/TESTING-ADVERSARIAL-FF5B9C?style=flat-square&labelColor=101329" />
-</p>
+**Fields:** spectral mathematics · dynamical systems · Lean 4 · reproducible computation · AI evidence & adversarial evaluation
 
 ---
 
-### `TRANSMISSION 002 // RESEARCH CONSTELLATIONS`
+### II. The Research Atlas
 
 | Signal | Research programme | Verified or documented scope |
 |:--|:--|:--|
@@ -41,7 +38,7 @@ My research rule: **build it, attack it, falsify what fails, preserve the record
 | `06 // ⌁` | **[IntentSeal](https://github.com/reggaesharkk/intentseal)** | Claim-boundary checks, research provenance and reproducible verification prototypes. |
 
 <details>
-<summary><b>EXPAND // Further research channels</b></summary>
+<summary><b>Explore other research programmes</b></summary>
 
 <br>
 
@@ -55,7 +52,7 @@ My research rule: **build it, attack it, falsify what fails, preserve the record
 
 ---
 
-### `TRANSMISSION 003 // THE LAB PROTOCOL`
+### III. Method & Evidence
 
 ```text
   ◉ OBSERVE  ──  FORMALIZE  ──  VERIFY  ──  ATTACK  ──  PRESERVE
@@ -70,7 +67,7 @@ My research rule: **build it, attack it, falsify what fails, preserve the record
   > NO SHORTCUTS FROM A HASH TO THE TRUTH.
 ```
 
-### `TRANSMISSION 004 // OPEN CHANNEL · PAID WORK & COLLABORATION`
+### IV. Open for Collaboration
 
 **Available for remote technical assignments and research collaboration** involving:
 
@@ -79,13 +76,8 @@ My research rule: **build it, attack it, falsify what fails, preserve the record
 - Reproducibility audits, test replay, evidence authentication and cross-platform verification.
 - Benchmark design, adversarial regression tests and structured **PASS / FAIL / OPEN** reports.
 
-<p align="center">
-  <a href="mailto:starxshark@gmail.com"><img alt="Email for paid work" src="https://img.shields.io/badge/CONTACT-FOR%20PAID%20WORK-FFB64E?style=for-the-badge&labelColor=080B18" /></a>
-  <a href="https://github.com/reggaesharkk/Reggae-shark-universe-"><img alt="See archive" src="https://img.shields.io/badge/EXPLORE-THE%20ARCHIVE-00E5F5?style=for-the-badge&labelColor=080B18" /></a>
-</p>
+**Inquiries:** [Contact about paid technical work](mailto:starxshark@gmail.com) · [Browse the full research archive](https://github.com/reggaesharkk/Reggae-shark-universe-)
 
 <p align="center">
-  <sub>Independent Research · India · <a href="https://orcid.org/0009-0002-1170-4487">ORCID 0009-0002-1170-4487</a></sub>
-  <br>
-  <sub><b>PROOF BEFORE PROPHECY.</b> // The signal continues.</sub>
+  <sub>Prince Upadhyay · Independent Research · India · <a href="https://orcid.org/0009-0002-1170-4487">ORCID 0009-0002-1170-4487</a></sub>
 </p>
