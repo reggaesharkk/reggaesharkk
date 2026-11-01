@@ -46,6 +46,7 @@ The featured selection is not the whole programme:
 - [**Ψ Self-Modeling Benchmark**](https://github.com/reggaesharkk/psi-self-modeling-benchmark) — diagnostic self/peer experiments with explicitly limited conclusions.
 - **STRENGTH** — ongoing private experiments on information retention, causal markers and delayed tasks; no confirmed general memory advantage claimed.
 - [**SharkLang Governed AI — v2.4.2**](https://github.com/reggaesharkk/sharklang-v2.4.2-release) — I built this policy-language/runtime release to make an approval-gated AI request flow inspectable. The release page links the checks, evaluation terms and [Zenodo record](https://doi.org/10.5281/zenodo.23841845).
+- [**SharkLang Evidence Desk**](https://github.com/reggaesharkk/sharklang-evidence-desk) — I built a local-first release ZIP auditor for archive paths, CRC/readability, SHA-256 manifests and selected credential patterns. It does not extract or execute archive contents; test and proof replay remain OPEN. [Project site](https://reggaesharkk.github.io/sharklang-evidence-desk/).
 - [**Reggae Shark Universe**](https://github.com/reggaesharkk/Reggae-shark-universe-) — programme-by-programme dossier, dated archives, source references, DOIs and evidence boundaries.
 
 </details>
