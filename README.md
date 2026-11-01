@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://github.com/reggaesharkk/Reggae-shark-universe-">THE ARCHIVE</a>
   &nbsp; · &nbsp;
+  <a href="https://github.com/reggaesharkk/reggaesharkk/blob/main/CV.md">RESEARCH CV</a>
+  &nbsp; · &nbsp;
   <a href="https://github.com/reggaesharkk?tab=repositories">ALL REPOSITORIES</a>
   &nbsp; · &nbsp;
   <a href="https://orcid.org/0009-0002-1170-4487">ORCID</a>
