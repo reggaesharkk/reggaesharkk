@@ -16,6 +16,7 @@ I work across spectral theory, mathematical dynamics, machine-checked reasoning,
 - **Navier–Stokes bridge audit.** I work on finite validated computations and record the unresolved passage from finite models to continuum regularity.
 - **Shark Protocol.** I build an experimental verification protocol for signed execution evidence, policy-gated requests, and failure-boundary testing.
 - **SharkLang Governed AI, v2.4.2.** I released a policy-language/runtime review package with source, tests, CI, checksum manifests, evaluation terms, and a Zenodo record.
+- **SharkLang Evidence Desk, v0.1.1.** I built a local-first release ZIP auditor that checks archive readability and paths, SHA-256 manifests, and selected credential patterns without extracting or running the archive. Test and proof replay remain OPEN. [Project](https://github.com/reggaesharkk/sharklang-evidence-desk) · [Site](https://reggaesharkk.github.io/sharklang-evidence-desk/).
 - **IntentSeal.** I develop a prototype for making claim scope and verification status more explicit.
 - **Ψ Self-Modeling Benchmark.** I design diagnostic experiments for self/peer modeling with limited, testable conclusions.
 
