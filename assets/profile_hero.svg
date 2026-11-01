@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
+<title id="title">Prince Upadhyay — independent researcher</title>
+<desc id="desc">A dark ocean-blue scientific canvas with spectral arcs, fine grid lines and a warm copper horizon.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06121e"/><stop offset=".56" stop-color="#0b2030"/><stop offset="1" stop-color="#102d3c"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59d7c3" stop-opacity=".05"/><stop offset=".55" stop-color="#70dccb" stop-opacity=".8"/><stop offset="1" stop-color="#d6a77e" stop-opacity=".8"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#53cdbb" stop-opacity=".22"/><stop offset="1" stop-color="#53cdbb" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="440" rx="24" fill="url(#bg)"/>
+<circle cx="1335" cy="215" r="270" fill="url(#glow)"/>
+<g fill="none" stroke="#b7e5df" stroke-opacity=".09">
+  <path d="M0 68H1600M0 122H1600M0 176H1600M0 230H1600M0 284H1600M0 338H1600M0 392H1600"/>
+  <path d="M92 0V440M196 0V440M300 0V440M404 0V440M508 0V440M612 0V440M716 0V440M820 0V440M924 0V440M1028 0V440M1132 0V440M1236 0V440M1340 0V440M1444 0V440M1548 0V440"/>
+</g>
+<g fill="none" stroke="url(#line)" stroke-width="2">
+  <path d="M920 376C1010 348 1041 263 1121 247C1201 231 1218 310 1297 287C1376 264 1401 151 1512 104"/>
+  <path d="M866 404C982 362 1010 216 1129 206C1247 196 1255 345 1368 298C1440 268 1466 188 1600 154"/>
+  <path d="M1010 433C1090 387 1116 319 1194 328C1272 338 1298 390 1381 345C1465 299 1480 270 1596 254"/>
+</g>
+<g fill="#d9a87e"><circle cx="1121" cy="247" r="4"/><circle cx="1297" cy="287" r="4"/><circle cx="1368" cy="298" r="4"/></g>
+<path d="M96 92H178" stroke="#d69b70" stroke-width="4"/>
+<text x="96" y="145" fill="#7fe1d0" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="5">INDEPENDENT RESEARCH · INDIA</text>
+<text x="92" y="240" fill="#eef7fb" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="1">PRINCE UPADHYAY</text>
+<text x="98" y="296" fill="#bdd2db" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="2">MATHEMATICAL STRUCTURES · COMPUTATIONAL EVIDENCE · FORMAL TOOLS</text>
+<text x="98" y="364" fill="#87aab7" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">ASK CLEARLY  /  TEST HARD  /  MARK WHAT REMAINS OPEN</text>
+</svg>
