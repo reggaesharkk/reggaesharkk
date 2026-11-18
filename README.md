@@ -1,14 +1,12 @@
-<p align="center"><img src="assets/profile_hero.svg" alt="Prince Upadhyay — independent researcher working across mathematical structures, computational evidence and formal tools" width="100%" /></p>
+<img src="assets/profile_hero.svg" alt="Prince Upadhyay, independent researcher in India" width="100%">
 
-<p align="center"><a href="https://github.com/reggaesharkk/Reggae-shark-universe-">RESEARCH MAP</a> &nbsp;·&nbsp; <a href="CV.md">RESEARCH CV</a> &nbsp;·&nbsp; <a href="https://orcid.org/0009-0002-1170-4487">ORCID</a> &nbsp;·&nbsp; <a href="https://github.com/reggaesharkk?tab=repositories">PUBLIC REPOSITORIES</a></p>
+[Research directory](https://github.com/reggaesharkk/Reggae-shark-universe-#the-public-work) · [Selected work](#selected-work) · [CV](CV.md) · [ORCID](https://orcid.org/0009-0002-1170-4487) · [Contact](#collaboration)
 
-### I work where a question meets a test.
+I build research software and study mathematical dynamics, spectral methods, and AI evaluation. I publish the source, checks, and open questions together so readers can trace each result.
 
-I'm **Prince Upadhyay**, an independent researcher in India. My work moves between mathematical dynamics, spectral methods, formal verification, AI evaluation, and evidence tooling.
+### Featured experiment
 
-I begin with an idea. I build a model, proof artifact, benchmark, or software system around it. Then I ask where it breaks. A finite certificate stays finite; an open conjecture stays open; a prototype carries its limits in plain sight.
-
-> *An idea may travel far. A claim still has to answer to evidence.*
+**SharkByte · 4,294,967,296 active states.** A Google Compute Engine replay of the connected 50-qubit GHZ-family benchmark matched the Colab run’s basis and amplitude array hashes. [Compare the receipts](https://github.com/reggaesharkk/SharkByte/tree/26dae2551b926feae8641bc4bf46c498d03dcc12#readme).
 
 ### Selected work
 
@@ -33,4 +31,4 @@ I value collaboration that begins with a real question, a careful challenge, or 
 
 **Contact:** [starxshark@gmail.com](mailto:starxshark@gmail.com)
 
-<p align="center"><sub>Independent research · India · Updated 1 November 2026</sub></p>
+<p align="center"><sub>Independent research · India · Updated 18 November 2026</sub></p>
