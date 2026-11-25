@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 80" role="img" aria-label="A sequence of connected ledger entries">
+  <style>@media (prefers-reduced-motion: no-preference) { .node { animation: light 4s ease-in-out infinite; } @keyframes light { 0%, 50%, 100% { opacity:.52; } 25% { opacity:1; } } }</style>
+  <rect width="960" height="80" rx="10" fill="#0d2d33"/>
+  <g fill="none" stroke-linecap="round"><path d="M12 40 H33 L49 56 H71 L87 40 H117" stroke="#65adab"/><circle cx="60" cy="56" r="4" fill="#e8c788" class="node" style="animation-delay:0s"/>
+<path d="M117 40 H138 L154 24 H176 L192 40 H222" stroke="#65adab"/><circle cx="165" cy="24" r="4" fill="#e8c788" class="node" style="animation-delay:0.28s"/>
+<path d="M222 40 H243 L259 56 H281 L297 40 H327" stroke="#65adab"/><circle cx="270" cy="56" r="4" fill="#e8c788" class="node" style="animation-delay:0.56s"/>
+<path d="M327 40 H348 L364 24 H386 L402 40 H432" stroke="#65adab"/><circle cx="375" cy="24" r="4" fill="#e8c788" class="node" style="animation-delay:0.8400000000000001s"/>
+<path d="M432 40 H453 L469 56 H491 L507 40 H537" stroke="#65adab"/><circle cx="480" cy="56" r="4" fill="#e8c788" class="node" style="animation-delay:1.12s"/>
+<path d="M537 40 H558 L574 24 H596 L612 40 H642" stroke="#65adab"/><circle cx="585" cy="24" r="4" fill="#e8c788" class="node" style="animation-delay:1.4000000000000001s"/>
+<path d="M642 40 H663 L679 56 H701 L717 40 H747" stroke="#65adab"/><circle cx="690" cy="56" r="4" fill="#e8c788" class="node" style="animation-delay:1.6800000000000002s"/>
+<path d="M747 40 H768 L784 24 H806 L822 40 H852" stroke="#65adab"/><circle cx="795" cy="24" r="4" fill="#e8c788" class="node" style="animation-delay:1.9600000000000002s"/>
+<path d="M852 40 H873 L889 56 H911 L927 40 H957" stroke="#65adab"/><circle cx="900" cy="56" r="4" fill="#e8c788" class="node" style="animation-delay:2.24s"/></g>
+</svg>
