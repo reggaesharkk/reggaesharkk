@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 80" role="img" aria-label="Rotating elliptical orbits">
+  <style>@media (prefers-reduced-motion: no-preference) { ellipse { transform-box: fill-box; transform-origin: center; animation: tilt 6s ease-in-out infinite alternate; } @keyframes tilt { to { rotate: 18deg; } } }</style>
+  <rect width="960" height="80" rx="10" fill="#0d2d33"/>
+  <g fill="none" stroke-linecap="round"><ellipse cx="60" cy="40" rx="17" ry="27" transform="rotate(-65 60 40)" stroke="#e7bc77" opacity=".8"/>
+<ellipse cx="116" cy="40" rx="20.694233404331865" ry="27" transform="rotate(-56 116 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="172" cy="40" rx="23.553532546407986" ry="27" transform="rotate(-47 172 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="228" cy="40" rx="24.93166678553349" ry="27" transform="rotate(-38 228 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="284" cy="40" rx="24.5171637894826" ry="27" transform="rotate(-29 284 40)" stroke="#e7bc77" opacity=".8"/>
+<ellipse cx="340" cy="40" rx="22.40370544440921" ry="27" transform="rotate(-20 340 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="396" cy="40" rx="19.068954797288885" ry="27" transform="rotate(-11 396 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="452" cy="40" rx="15.266599356900963" ry="27" transform="rotate(-2 452 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="508" cy="40" rx="11.856010063568728" ry="27" transform="rotate(7 508 40)" stroke="#e7bc77" opacity=".8"/>
+<ellipse cx="564" cy="40" rx="9.608014730214496" ry="27" transform="rotate(16 564 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="620" cy="40" rx="9.030683129313275" ry="27" transform="rotate(25 620 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="676" cy="40" rx="10.254498065148663" ry="27" transform="rotate(34 676 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="732" cy="40" rx="13.00286493506478" ry="27" transform="rotate(43 732 40)" stroke="#e7bc77" opacity=".8"/>
+<ellipse cx="788" cy="40" rx="16.65462491833017" ry="27" transform="rotate(52 788 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="844" cy="40" rx="20.384443177143975" ry="27" transform="rotate(61 844 40)" stroke="#72cfc0" opacity=".8"/>
+<ellipse cx="900" cy="40" rx="23.349342910793222" ry="27" transform="rotate(70 900 40)" stroke="#72cfc0" opacity=".8"/></g>
+</svg>
